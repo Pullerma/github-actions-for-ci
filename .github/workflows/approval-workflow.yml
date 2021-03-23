@@ -1,1 +1,2 @@
-name: Mir genehmige des zsamma
+name: Team awesome's approval workflow
+on: pull_request_review
